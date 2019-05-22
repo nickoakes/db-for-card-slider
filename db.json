@@ -30,6 +30,7 @@
     {
       "id": 5,
       "title": "Word Guessing Game",
+      "subtitle": "JavaScript, HTML5, CSS3, Object-Oriented Programming",
       "text": "A 'Hangman'-style game in which the player has to guess the letters in a phrase, for which placeholders are displayed on-screen.",
       "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-4-1.png",
       "href": "https://nickoakes.github.io/word-guessing-game/",
@@ -38,6 +39,7 @@
     {
       "id": 6,
       "title": "Public API Request",
+      "subtitle": "JavaScript, HTML5, CSS3, jQuery, API Request",
       "text": "Make a public API request to retrieve data on 12 employes, before formatting and displaying employee information.",
       "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-5-1.png",
       "href": "https://nickoakes.github.io/public-api-request/",
