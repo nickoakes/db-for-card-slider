@@ -87,7 +87,7 @@
       "subtitle": "JavaScript, HTML5, CSS3, Express, Pug, Sequelize",
       "text" : "An app. built using Express, Pug and Sequelize which enables users to create, read, update and delete book entries in a library database.",
       "image_url" : "https://nick-oakes-portfolio-site.herokuapp.com/images/project-11-1.png",
-      "href" : "https://github.com/nickoakes/sql-library-manager",
+      "href" : "https://hidden-everglades-90886.herokuapp.com/books",
       "is_liked" : false
     }
   ]
